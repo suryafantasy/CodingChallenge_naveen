@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="6.633488">
+    <testcase classname="Online shopping_coding challenge 2" name="Add item to cart which has high pricing" time="6.633488">
+        <system-out>
+            <![CDATA[Given launch the url........................................................passed
+When login with "standard_user" and "secret_sauce"..........................passed
+Then add item with high price to cart.......................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
